@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.vidalmartindeveloper.vmd.VmdApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.642 s - in com.vidalmartindeveloper.vmd.VmdApplicationTests
